@@ -3,11 +3,14 @@
 <img src = "Images/Crowdfunding.png" width="100%">
 
 ## Overview 
-The purpose of the project is to apply ETL methodology to data analysis by performing the following:
+The purpose of the project is to apply ETL methodology to perform the following:
 
-<ol> •	Extract..... </ol>
-<ol> •	Transform.... </ol>
-<ol> •	Load.... </ol>
+<ol> •	Building an ETL pipeline </ol>
+<ol> •	Extract and transform the Contacts and Crowdfunding data </ol>
+<ol> •	Create CSV files from the transformed data </ol>
+<ol> •	Create an ERD and table schema </ol>
+<ol> •	Load CSV file data into a Postgres database </ol>
+<br>
 
 ## Group 10 Members:
 <li> Ry Avery </li>
@@ -39,7 +42,7 @@ The purpose of the project is to apply ETL methodology to data analysis by perfo
 <br>
 
 ## Resources
-#### <b>Data Source:</b> 
+#### <b>Data Sources:</b> 
 contacts.xlsx, crowdfunding.xlsx
 #### <b>Software:</b> 
 Jupyter Notebook, Python, Pandas, Postgres/pgAdmin, VSCode
