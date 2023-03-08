@@ -5,7 +5,7 @@
 ## Overview 
 The purpose of the project is to apply ETL methodology to perform the following:
 
-<ol> •	Building an ETL pipeline </ol>
+<ol> •	Build an ETL pipeline </ol>
 <ol> •	Extract and transform the Contacts and Crowdfunding data </ol>
 <ol> •	Create CSV files from the transformed data </ol>
 <ol> •	Create an ERD and table schema </ol>
