@@ -1,6 +1,6 @@
 # Crowdfunding ETL Project
 
-<img src = "Resources/Crowdfunding.png">
+<img src = "Images/Crowdfunding.png">
 
 ## Overview 
 The purpose of this project is to apply ETL methodology to data analysis by performing the following:
