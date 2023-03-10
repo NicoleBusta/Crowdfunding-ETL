@@ -17,12 +17,9 @@ The purpose of the project is to apply ETL methodology to perform the following:
 <li> Jennifer Duckworth </li>
 <li> Nicole Bustamante </li>
 <li> Kiana Navarre </li>
-<li> Angelica Victoria </li> 
 <br>
 
 ## Results
-(need to decide if list or links)
-
 <li>  Category and Subcategory DataFrames </li>
 <li>  Campaign DataFrame </li>
 <li>  Contacts DataFrame </li>
@@ -32,13 +29,6 @@ The purpose of the project is to apply ETL methodology to perform the following:
 <li>  Contacts CSV </li>
 <li>  Crowdfunding Database </li>
 <li>  Crowdfunding DB Schema </li>
-<br>
-<li><a href = ""> Category CSV </a></li>
-<li><a href = ""> Subategory CSV </a></li>
-<li><a href = ""> Campaign CSV </a></li>
-<li><a href = ""> Contacts CSV </a></li>
-<li><a href = ""> Crowdfunding Database </a></li>
-<li><a href = ""> Crowdfunding DB Schema </a></li>
 <br>
 
 ## Resources
